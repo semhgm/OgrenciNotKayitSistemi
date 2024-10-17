@@ -1,0 +1,12 @@
+C:\Users\HP VICTUS\source\repos\NotKayitSistemi\NotKayitSistemi\bin\Debug\NotKayitSistemi.exe.config
+C:\Users\HP VICTUS\source\repos\NotKayitSistemi\NotKayitSistemi\bin\Debug\NotKayitSistemi.exe
+C:\Users\HP VICTUS\source\repos\NotKayitSistemi\NotKayitSistemi\bin\Debug\NotKayitSistemi.pdb
+C:\Users\HP VICTUS\source\repos\NotKayitSistemi\NotKayitSistemi\obj\Debug\NotKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\HP VICTUS\source\repos\NotKayitSistemi\NotKayitSistemi\obj\Debug\NotKayitSistemi.FrmOgrDetay.resources
+C:\Users\HP VICTUS\source\repos\NotKayitSistemi\NotKayitSistemi\obj\Debug\NotKayitSistemi.FrmOgretmenDetay.resources
+C:\Users\HP VICTUS\source\repos\NotKayitSistemi\NotKayitSistemi\obj\Debug\NotKayitSistemi.Properties.Resources.resources
+C:\Users\HP VICTUS\source\repos\NotKayitSistemi\NotKayitSistemi\obj\Debug\NotKayitSistemi.csproj.GenerateResource.cache
+C:\Users\HP VICTUS\source\repos\NotKayitSistemi\NotKayitSistemi\obj\Debug\NotKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\HP VICTUS\source\repos\NotKayitSistemi\NotKayitSistemi\obj\Debug\NotKayitSistemi.exe
+C:\Users\HP VICTUS\source\repos\NotKayitSistemi\NotKayitSistemi\obj\Debug\NotKayitSistemi.pdb
+C:\Users\HP VICTUS\source\repos\NotKayitSistemi\NotKayitSistemi\obj\Debug\NotKayitSistemi.FrmGiris.resources
