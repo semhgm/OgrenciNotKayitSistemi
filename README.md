@@ -8,7 +8,8 @@
 
 2.SQL veritabanını oluşturun ve yapılandırın.
 
-Kullanım
+Kullanım:
+kullanım içşn öğrenci ise öğrenci numarası ile, öğretmen ise 1111 kodu ile giriş yapılabiir.
 Uygulamayı başlatın.
 Öğrenci bilgilerini girin ve notları yönetin.
 
